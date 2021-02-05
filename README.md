@@ -11,4 +11,4 @@ If the user selects the first option, the program will respond with:
 - How many days have passed in the given year up to that date
 - How many days are left in the given year from that date
 
-If the user selects the second option, the program will respond with the date entered in the first option + the number of days entered.
+If the user selects the second option, the program will respond with the date entered in the first option + the number of days entered in the second option.
